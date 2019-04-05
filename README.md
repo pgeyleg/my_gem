@@ -1,6 +1,6 @@
 # MyGem
 
-This is me trying to creating ruby gem with bundler using Docker as development environment.
+This is me trying out developing ruby gem using bundler and Docker as development environment.
 
 ## Installation
 
