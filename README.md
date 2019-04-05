@@ -4,23 +4,13 @@ This is me trying to creating ruby gem with bundler using Docker as development 
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Build a local copy of our gem:
 
-```ruby
-gem 'my_gem'
-```
+    $rake build
 
-And then execute:
+Then install it from your local copy:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install my_gem
-
-## Usage
-
-TODO: Write usage instructions here
+    $gem install pkg/my_gem-0.0.1.gem 
 
 ## Development
 
