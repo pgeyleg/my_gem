@@ -26,7 +26,11 @@ TODO: Write usage instructions here
 
 ## Development
 
-After checking out the repo, run `docker-compose run --rm app /bin/sh` to run docker container. Then, run `bundle exec rake spec` to run the tests.
+After checking out the repo, 
+
+    $docker-compose run --rm app /bin/sh to run docker container. 
+    
+    $bundle exec rake spec to run the tests.
 
 ## Contributing
 
